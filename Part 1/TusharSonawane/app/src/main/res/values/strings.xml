@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="prompt">What is your name?</string>
+    <string name="hint">Enter your name here.</string>
+    <string name="enter">ENTER</string>
+    <string name="app_name">Tushar Sonawane\'s First App</string>
+    <string name="show_name">Hello, %s!</string>
+
+
+</resources>
